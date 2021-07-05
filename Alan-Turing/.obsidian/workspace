@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "66dccde1a64ccfd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "571426969af102df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Antro/Questions.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2b2212aceef9c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cc93971a24430bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc614bec1d34f5b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1338c85f7cb5f25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fc77cf85a588b8b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5db8a4cc8d8df91f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c569d4df2a5f6170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f8d9a13cba104f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Antro/Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "631ec9c95526fa25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Antro/Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2645b62cd38d67d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2cbdb869f9f76100",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Antro/Questions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "571426969af102df",
+  "lastOpenFiles": [
+    "Antro/Questions.md",
+    "Antro/Antropology.md",
+    "C_C++/array-iteration.md",
+    "Untitled.md",
+    "Antro/Untitled 6.md",
+    "plugins.md",
+    "OCR.md",
+    "Binarization.md",
+    "memory-model.svg",
+    "malloc vs calloc.svg"
+  ]
+}
